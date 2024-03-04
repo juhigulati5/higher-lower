@@ -1,0 +1,1 @@
+This code is a spin-off of the popular higher-lower game that compares the number of google searches of two topics. In this game, the user attempts to guess who has the highest Instagram following between two celebrities. If the user is correct, the code loops through and continues. If the user is wrong, the code ends.
